@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DSA library](https://github.com/AdrianRo147/dsa-library)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **adrian.rovnan@gmail.com**
 
