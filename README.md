@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianro147" alt="adrianro147" /></a> </p>
 
-- 🔭 I’m currently working on [DSA library](https://github.com/AdrianRo147/dsa-library)
-
 - 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **adrian.rovnan@gmail.com**
